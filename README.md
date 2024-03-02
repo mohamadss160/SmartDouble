@@ -1,0 +1,2 @@
+# SmartDouble
+say hello
